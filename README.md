@@ -1,4 +1,5 @@
-# This is a homework assignment for the course " technology of programming"
+# Technical Task 3
 ## How does it work?
+
 
 
